@@ -1,0 +1,41 @@
+button{
+    color: black;
+    padding: 10px;
+    width: 300px;
+    background-color: pink;
+    border: none;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+input{
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    
+}
+button:hover{
+    background-color: aqua;
+}
+
+form{
+    text-align: center;
+    margin: 50px auto;
+    width: 300px;
+    padding: 20px;
+    box-shadow: 0 0 10px blue;
+    border: 1px solid green;
+    border-radius: 10px;
+
+}
+a{
+    text-decoration: none;
+}
+p{
+    text-align: center;
+    color: black;
+}
